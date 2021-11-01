@@ -1,4 +1,4 @@
-## Restaurant Search (projeto DIO)
+## Restaurant Search 
 
 Projeto desenvolvido durante o bootcamp React Web Developer da Digital Innovation One (DIO)
 
@@ -24,35 +24,5 @@ O usuário ainda pode utilizar um campo de busca para filtrar os restaurantes po
 
 
 
-## Para executar o projeto :computer:
 
-- clone este repositório 
-
-  ```
-  git clone https://github.com/davi-santos5/dio-restaurant-search.git
-  ```
-
-- instale as dependências
-
-  ````
-  yarn add
-  ````
-
-- crie um arquivo `.env` e insira uma chave de API do Google (poderá obter uma no [Google Cloud Platfrom](https://console.cloud.google.com/)) conforme abaixo:
-
-  ```
-  REACT_APP_GOOGLE_API_KEY=suaChaveAqui
-  ```
-  
-- execute o projeto
-
-  ```
-  yarn start
-  ```
-
-
-
-Ou acesse a aplicação: [Restaurant Search](https://restaurant-search-dio.netlify.app/)
-
-![demo](./src/assets/demo.gif)
 
